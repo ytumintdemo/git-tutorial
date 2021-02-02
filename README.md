@@ -4,20 +4,26 @@
 - versiyon kontrol nedir?
 - git kurulumu
 - init
-    <details>
-    açıklama
-    </details>
 - status
 - add
 - restore
-- config
+- gitignore
 - commit
+- config
 - log
 - diff
+- revert
 - reset
 - branch
+- checkout
+- switch
 - merge
 - rebase
 - conflict
-- stash
 - remote
+- clone
+- pull
+- push
+- fetch
+- pull request
+
