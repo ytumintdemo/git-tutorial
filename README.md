@@ -5,7 +5,7 @@
 - git kurulumu
 - init
 - status
-- add
+- add +
 - restore
 - gitignore
 - commit +
