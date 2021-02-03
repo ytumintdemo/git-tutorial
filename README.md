@@ -9,7 +9,7 @@
 - restore +
 - gitignore
 - commit +
-- config
+- config +
 - log
 - diff
 - revert

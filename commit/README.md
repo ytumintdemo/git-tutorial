@@ -5,6 +5,8 @@
 - git commit -m 'this is commit message'
 - git commit -a -m 'mesaj'
 - git commit --amend -m 'edited commit message'
+- git config --global user.name "ad soyad"
+- git config --global user.email "mail@example.com"
 
 # source
 - https://www.atlassian.com/git/tutorials/saving-changes/git-commit
