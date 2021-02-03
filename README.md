@@ -26,5 +26,3 @@
 - push
 - fetch
 - pull request
-
-furkan branch
