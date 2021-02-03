@@ -3,7 +3,7 @@
 - neden kullanmalıyız?
 - versiyon kontrol nedir?
 - git kurulumu
-- init
+- init +
 - status +
 - add +
 - restore +
