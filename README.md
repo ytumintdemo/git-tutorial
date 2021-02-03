@@ -11,7 +11,7 @@
 - commit +
 - config +
 - log +
-- diff
+- diff +
 - revert
 - reset
 - branch
