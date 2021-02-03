@@ -8,7 +8,7 @@
 - add
 - restore
 - gitignore
-- commit
+- commit +
 - config
 - log
 - diff
