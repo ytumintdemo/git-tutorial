@@ -10,7 +10,7 @@
 - gitignore
 - commit +
 - config +
-- log
+- log +
 - diff
 - revert
 - reset
