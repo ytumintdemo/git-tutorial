@@ -6,7 +6,7 @@
 - init
 - status
 - add +
-- restore
+- restore +
 - gitignore
 - commit +
 - config
