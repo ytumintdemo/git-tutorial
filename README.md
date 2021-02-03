@@ -4,7 +4,7 @@
 - versiyon kontrol nedir?
 - git kurulumu
 - init
-- status
+- status +
 - add +
 - restore +
 - gitignore
