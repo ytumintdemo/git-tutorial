@@ -15,7 +15,7 @@
 - revert +
 - reset +
 - branch
-- checkout
+- checkout +
 - switch
 - merge
 - rebase
