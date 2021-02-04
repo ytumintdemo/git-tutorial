@@ -14,7 +14,7 @@
 - diff +
 - revert +
 - reset +
-- branch
+- branch +
 - checkout +
 - switch +
 - merge
