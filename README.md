@@ -17,12 +17,12 @@
 - branch +
 - checkout +
 - switch +
-- merge
+- merge +
 - rebase
 - conflict
 - remote
-- clone
-- pull
 - push
+- pull
+- clone
 - fetch
 - pull request
