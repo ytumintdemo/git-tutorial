@@ -20,9 +20,9 @@
 - merge +
 - rebase
 - conflict
-- remote
-- push
-- pull
-- clone
-- fetch
+- remote +
+- push +
+- pull +
+- clone +
+- fetch +
 - pull request
