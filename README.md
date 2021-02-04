@@ -12,7 +12,7 @@
 - config +
 - log +
 - diff +
-- revert
+- revert +
 - reset
 - branch
 - checkout
