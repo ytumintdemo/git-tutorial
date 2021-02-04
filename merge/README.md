@@ -5,3 +5,4 @@
 - git checkout branchName
 - git pull
 - git merge other_branchName
+- conflict
