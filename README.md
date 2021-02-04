@@ -25,4 +25,11 @@
 - pull
 - push
 - fetch
+<<<<<<< HEAD
 - pull request
+=======
+- pull request
+
+main branch
+furkan branch
+>>>>>>> main
